@@ -47,8 +47,8 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f5u-25-4LV">
-                                <rect key="frame" x="156" y="201" width="64" height="30"/>
-                                <state key="normal" title="Swimmer">
+                                <rect key="frame" x="168" y="201" width="40" height="30"/>
+                                <state key="normal" title="Racer">
                                     <color key="titleColor" red="0.3668866753578186" green="0.99991804361343384" blue="0.86198639869689941" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
